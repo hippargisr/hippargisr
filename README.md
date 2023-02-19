@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sunil Hippargi</h1>
 <h3 align="center">A passionate Full-Stack developer from India </h3>
 
-- 🔭 I’m currently working on **personal Portfolio**
-
-- 💬 Ask me about **node.js and react.js**
+- I’m working with **Persistent Systems**
 
 - 📫 How to reach me **hippargisr@gmail.com**
 
