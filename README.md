@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sunil Hippargi</h1>
 <h3 align="center">A passionate Full-Stack developer from India </h3>
 
-- I’m working with **Persistent Systems**
+- I’m working with **Zycus**
 
 - 📫 How to reach me **hippargisr@gmail.com**
 
